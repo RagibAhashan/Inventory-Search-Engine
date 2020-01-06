@@ -6,9 +6,11 @@ A Class Diagram is also provided, it explains the interactions betweens all clas
 Using Python, we have implemented a very User-Friendly Interface. 
 
 Requirements to run the program:
+
     Python version 3.7.3
 
 Run the program:
+
     Windows:        $python main.py
     MacOs or Linux: $python3 main.py
 
