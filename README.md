@@ -15,6 +15,7 @@ Run the program:
 
 
 How to use the program:
+    
     1) Press [1] and enter the name of the .txt file that contains the inventory data. 
         Which is either 'inventaire.txt' or 'Inventaire_grosFichier.txt' *Very Huge File!*
         
