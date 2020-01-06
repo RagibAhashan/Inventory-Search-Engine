@@ -7,7 +7,7 @@ Using Python, we have implemented a very User-Friendly Interface.
 
 Requirements to run the program:
 
-    Python version 3.7.3
+    Python version 3.7.3 [Recommended]
 
 Run the program:
 
